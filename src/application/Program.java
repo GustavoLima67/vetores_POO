@@ -26,6 +26,8 @@ public class Program {
 		
 		System.out.printf("AVERAGE HEIGHT: %.2f%n", avg);
 		
+		//SISTEMAS DE VETORES, COM FOR.
+		
 		sc.close();
 	}
 	
